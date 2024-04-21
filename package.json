@@ -1,0 +1,12 @@
+{
+  "name": "diary-rs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Emir Bugra Koksalan <kodmanyagha@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@material-tailwind/html": "^2.2.2",
+    "@tailwindcss/aspect-ratio": "^0.4.2",
+    "tailwindcss": "^3.4.3"
+  }
+}
